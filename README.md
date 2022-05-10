@@ -1,8 +1,8 @@
 # プロを目指す人のための TypeScript 入門の<br>アウトプット用リポジトリ
 
-<section style="text-align: center;">
+<div style="text-align: center;">
 <img src="./book_img.jpg" width="30%" >
-</section>
+</div>
 # Usage
 
 ```
