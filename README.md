@@ -1,11 +1,10 @@
+# プロを目指す人のための TypeScript 入門のアウトプットリポジトリ
+
 # Usage
 
 ```
 docker-compose up -d
-docker-compose exec front bash
-npm run dev
+docker-compose exec app bash
 ```
 
-# Description
-
-- Docker で Node.js(ts) の環境を作るためのベースリポジトリ
+## TypeScript とは
