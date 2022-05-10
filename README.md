@@ -3,6 +3,7 @@
 <div style="text-align: center;">
 <img src="./book_img.jpg" width="30%" >
 </div>
+
 # Usage
 
 ```
