@@ -1,4 +1,4 @@
-FROM node:16.13.0-slim
+FROM node:16.8.0
 
 # Set environments and arguments
 ENV USER_NAME=node
